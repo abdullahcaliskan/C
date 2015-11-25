@@ -1,1 +1,1 @@
-C ile zorluk seviyesi fark etmeksizin örnekler
+C ile zorluk seviyesi fark etmeksizin örnekler Edited2
