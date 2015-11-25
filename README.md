@@ -1,1 +1,1 @@
-C ile zorluk seviyesi fark etmeksizin örnekler Edited2
+C ile zorluk seviyesi fark etmeksizin örneklerin cözümü
