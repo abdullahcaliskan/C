@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1451165239 source:/home/abdullah/C-Book/fibonacci_recursive/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1451165239 source:/home/abdullah/Masaüstü/C/fibonacci_recursive/main.c
+	<stdio.h>
+	<stdlib.h>
+
